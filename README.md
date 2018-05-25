@@ -14,11 +14,11 @@ text
 ### The goal of GIT.TOP. ###
    GIT.TOP can make your code more valuable,it's time to repay the people in the open source community.
 ### TOKEN distribution. ###
-Airdrop to github,gitlab,git foundation.
-Coder
-Social promote
-ICO
-GIT.TOP foundation
+* Airdrop to github,gitlab,git foundation.
+* Coder
+* Social promote
+* ICO
+* GIT.TOP foundation
 
 ### How do I get set up? ###
 
