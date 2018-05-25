@@ -12,7 +12,7 @@ Blockchains are secure by design and exemplify a distributed computing system wi
 Blockchain was invented by Satoshi Nakamoto in 2008 for use in the cryptocurrency bitcoin, as its public transaction ledger. The invention of the blockchain for bitcoin made it the first digital currency to solve the double-spending problem without the need of a trusted authority or central server. The bitcoin design has been the inspiration for other applications.
 
 ### The painpoint of opensource community ###
-Can not get reward directly.
+Coders can not get reward directly.
 
 ### What is git? ###
 Git  is a version control system for tracking changes in computer files and coordinating work on those files among multiple people. It is primarily used for source code management in software development, but it can be used to keep track of changes in any set of files. As a distributed revision control system it is aimed at speed, data integrity, and support for distributed, non-linear workflows.
