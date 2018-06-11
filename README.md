@@ -3,6 +3,7 @@ GIT.TOP is a blockchain project,everyone can contribute your code,idea,and every
 
 
 
+### What is GitTop ###
 
 ### What is blockchain ###
 A blockchain,originally block chain,is a continuously growing list of records, called blocks, which are linked and secured using cryptography.Each block typically contains a cryptographic hash of the previous block,a timestamp and transaction data.By design, a blockchain is inherently resistant to modification of the data. It is "an open, distributed ledger that can record transactions between two parties efficiently and in a verifiable and permanent way".For use as a distributed ledger, a blockchain is typically managed by a peer-to-peer network collectively adhering to a protocol for inter-node communication and validating new blocks. Once recorded, the data in any given block cannot be altered retroactively without the alteration of all subsequent blocks, which requires collusion of the network majority.
@@ -39,6 +40,21 @@ Git is free and open source software distributed under the terms of the GNU Gene
 * Database configuration
 * How to run tests
 * Deployment instructions
+* GitLab API list
+
+| GitLab API        |   Description         |  GitTop requirement |
+| ------------- |:-------------:| -----:|
+| 1.1. GET /projects   | 取得当前用户能够访问的所有项目信息 | ✅|
+| 1.2. GET /projects/:id/repository/     | 找到了project id, 我们就可以使用这个id来访问指定的项目 | ✅|
+
+Ref: https://www.jianshu.com/p/50d58fa8bdc6
+
+| Steem API        |   Description         |  GitTop requirement |
+| ------------- |:-------------:| -----:|
+| 1.1. GET /accounts   | 取得当前用户信息 | ✅|
+
+Ref: https://steemit.github.io/steemit-docs/
+
 
 ### Contribution guidelines ###
 
