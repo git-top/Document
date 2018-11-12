@@ -40,20 +40,7 @@ Git is free and open source software distributed under the terms of the GNU Gene
 * Database configuration
 * How to run tests
 * Deployment instructions
-* GitLab API list
-
-| GitLab API        |   Description         |  GitTop requirement |
-| ------------- |:-------------:| -----:|
-| 1.1. GET /projects   | 取得当前用户能够访问的所有项目信息 | ✅|
-| 1.2. GET /projects/:id/repository/     | 找到了project id, 我们就可以使用这个id来访问指定的项目 | ✅|
-
-Ref: https://www.jianshu.com/p/50d58fa8bdc6
-
-| Steem API        |   Description         |  GitTop requirement |
-| ------------- |:-------------:| -----:|
-| 1.1. GET /accounts   | 取得当前用户信息 | ✅|
-
-Ref: https://steemit.github.io/steemit-docs/
+* MVP: https://github.com/git-top/Document/wiki/MVP 
 
 
 ### Contribution guidelines ###
